@@ -1,0 +1,17 @@
+G:\SistemasDEBS\CursoProgramCapas\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+G:\SistemasDEBS\CursoProgramCapas\Datos\bin\Debug\Datos.dll
+G:\SistemasDEBS\CursoProgramCapas\Datos\bin\Debug\Datos.pdb
+G:\SistemasDEBS\CursoProgramCapas\Datos\bin\Debug\DEBSAccesoSQL.dll
+G:\SistemasDEBS\CursoProgramCapas\Datos\bin\Debug\Entidades.dll
+G:\SistemasDEBS\CursoProgramCapas\Datos\bin\Debug\Entidades.pdb
+G:\SistemasDEBS\CursoProgramCapas\Datos\bin\Debug\DEBSAccesoSQL.pdb
+G:\SistemasDEBS\CursoProgramCapas\Datos\obj\Debug\Datos.dll
+G:\SistemasDEBS\CursoProgramCapas\Datos\obj\Debug\Datos.pdb
+E:\VT\CursoProgramCapas_VT3\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\VT\CursoProgramCapas_VT3\Datos\obj\Debug\Datos.dll
+E:\VT\CursoProgramCapas_VT3\Datos\bin\Debug\Datos.dll
+E:\VT\CursoProgramCapas_VT3\Datos\bin\Debug\Datos.pdb
+E:\VT\CursoProgramCapas_VT3\Datos\bin\Debug\Entidades.dll
+E:\VT\CursoProgramCapas_VT3\Datos\bin\Debug\Entidades.pdb
+E:\VT\CursoProgramCapas_VT3\Datos\bin\Debug\DEBSAccesoSQL.pdb
+E:\VT\CursoProgramCapas_VT3\Datos\obj\Debug\Datos.pdb

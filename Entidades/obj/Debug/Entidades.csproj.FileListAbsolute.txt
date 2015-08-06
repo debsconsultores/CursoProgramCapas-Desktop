@@ -1,0 +1,5 @@
+G:\SistemasDEBS\CursoProgramCapas\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+G:\SistemasDEBS\CursoProgramCapas\Entidades\bin\Debug\Entidades.dll
+G:\SistemasDEBS\CursoProgramCapas\Entidades\bin\Debug\Entidades.pdb
+G:\SistemasDEBS\CursoProgramCapas\Entidades\obj\Debug\Entidades.dll
+G:\SistemasDEBS\CursoProgramCapas\Entidades\obj\Debug\Entidades.pdb
