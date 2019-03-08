@@ -19,7 +19,7 @@
 			</ul>
 		</p>
 		<p>
-		Curso Completo lo pueden encontrar en:  <a href='http://goo.gl/Qq4h9q' target='_blank'> mi canal de youtube</a>
+		Curso Completo lo pueden encontrar en:  <a href='http://bit.ly/tier-github' target='_blank'> la tienda de Udemy</a>
 		</p>
 		<b>Youtube:  </b> https://www.youtube.com/debsdaniel03<br>
 		<b>FaceBook: </b> https://www.facebook.com/DEBSConsultores<br>
